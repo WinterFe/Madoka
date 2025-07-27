@@ -45,11 +45,7 @@ decoration {
 
     shadow {
         enabled = true
-        range = 15
-        scale = 2
-        render_power = 5
-        color = #f3f0b4 # Nord Polar Night (no. 2)
-        color_inactive = #c6c6c1ff # Nord Polar Night (no. 1)
+        color = rgba(243, 240, 180, 1)
     }
 }
 
