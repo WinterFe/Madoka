@@ -1,11 +1,11 @@
 $HOME/.config/rofi/theme.rasi
 * {
     main-bg:            #b5d7e8;
-    main-fg:            #d8dfe9ff;
+    main-fg:            #474a4fff;
     main-br:            #f3f0b4;
-    main-ex:            #ff0000cc;
-    select-bg:          #4C566AFF;
-    select-fg:          #81A1C1FF;
+    main-ex:            #ccff00cc;
+    select-bg:          #11ff00ff;
+    select-fg:          rgba(255, 0, 0, 1);
     separatorcolor:     transparent;
     border-color:       transparent;
     font: "Jetbrains Mono 11";
