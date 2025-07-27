@@ -45,9 +45,9 @@ decoration {
 
     shadow {
         enabled = true
-        range = 4
-        render_power = 3
-        scale = 1
+        range = 3
+        render_power = e
+        scale = 2
         sharp = true
         color = rgba(243, 240, 180, 1)
     }
